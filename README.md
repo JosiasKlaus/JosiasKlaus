@@ -2,7 +2,7 @@
 
 > Full-Stack Softwareentwickler & Data-Engineer — ich baue Web-Apps, Datenplattformen, APIs und ab und zu hardwarenahe Spielereien.
 
-> Full-Stack Software-Developer & data engineer from Germany  — building web-apps, data platforms, APIs, and the occasional hardware side-quest.
+> Full-Stack Software-Developer & data engineer — building web-apps, data platforms, APIs, and the occasional hardware side-quest.
 
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![TypeSript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
