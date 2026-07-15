@@ -25,4 +25,4 @@
 
 ### GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JosiasKlaus&layout=compact&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=JosiasKlaus&layout=compact&langs_count=4)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JosiasKlaus&layout=compact&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=JosiasKlaus&layout=compact&langs_count=6)
